@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/ui/LoginForm.java</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/model/Matiere.java</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/model/Note.java</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/dao/NoteDAO.java</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/resources/education.png</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/ui/FormEtudiant.java</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/dao/MatiereDAO.java</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/utils/ConnexionDB.java</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/gestionnotes/GestionNotes.java</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/model/Utilisateur.java</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/dao/UtilisateurDAO.java</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/dao/EtudiantDAO.java</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/manifest.mf</file>
+            <file>file:/C:/Users/hamza/Documents/NetBeansProjects/GestionNotes/src/TestConnexion.java</file>
+        </group>
+    </open-files>
+</project-private>
